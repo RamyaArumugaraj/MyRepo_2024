@@ -1,3 +1,4 @@
+#edited to check commit & version control
 print("What we are going to learn here"
       "1. Important - How to create a spark application - sparkSession object to enter into spark application"
       "2. Not Important - How to create RDDs - multiple methods"
